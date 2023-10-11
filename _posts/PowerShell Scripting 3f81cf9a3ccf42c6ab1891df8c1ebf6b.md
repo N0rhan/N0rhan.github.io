@@ -1,7 +1,7 @@
 ---
 title: PowerShell - Posts
 image:
-    path: /assets/images/PowerShell.png
+    path: /assets/PowerShell.png
 date: 2023-10-11 20:00:00 +0800
 categories: Scripting
 description: "PowerShell Scripting Notes For Beginners"
