@@ -1,3 +1,14 @@
+---
+title: PowerShell - Posts
+image:
+    path: /assets/images/PowerShell.png
+date: 2023-10-11 20:00:00 +0800
+categories: Scripting
+description: "PowerShell Scripting Notes For Beginners"
+tags: [powershell , scripting]
+toc: true
+---
+
 # PowerShell Scripting
 
 - PowerShell is the Windows Scripting Language and shell environment built using the **.NET** framework.
